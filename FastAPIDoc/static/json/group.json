@@ -1,0 +1,15 @@
+[
+    {
+        "name": "server例子1",
+        "url": "http://127.0.0.1:8009/getApidoc/server1",
+        "swaggerVersion": "2.0",
+        "location": "../static/json/server1.json"
+    },
+    {
+        "name": "FastAPI",
+        "url": "http://0.0.0.0:888/getApidoc/FastAPI",
+        "swaggerVersion": "2.0",
+        "location": "/json/FastAPI.json",
+        "xm": true
+    }
+]

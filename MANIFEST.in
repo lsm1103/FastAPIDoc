@@ -1,0 +1,16 @@
+include LICENSE
+include README.md
+include FastAPIDoc/static/json/*.json
+include FastAPIDoc/static/swagger2Vue/doc.html
+include FastAPIDoc/static/swagger2Vue/favicon.ico
+include FastAPIDoc/static/swagger2Vue/robots.txt
+include FastAPIDoc/static/swagger2Vue/webjars/css/*.css
+include FastAPIDoc/static/swagger2Vue/webjars/fonts/*.eot
+include FastAPIDoc/static/swagger2Vue/webjars/fonts/*.ttf
+include FastAPIDoc/static/swagger2Vue/webjars/fonts/*.woff
+include FastAPIDoc/static/swagger2Vue/webjars/fonts/*.woff2
+include FastAPIDoc/static/swagger2Vue/webjars/img/*.svg
+include FastAPIDoc/static/swagger2Vue/webjars/img/*.gif
+include FastAPIDoc/static/swagger2Vue/webjars/img/*.png
+include FastAPIDoc/static/swagger2Vue/webjars/js/*.js
+recursive-exclude * __pycache__

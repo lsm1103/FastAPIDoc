@@ -1,0 +1,11 @@
+# misc
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+FastAPIDoc/__pycache__/
+
+# 文件
+build/
+dist/
+FastAPIDoc.egg-info/

@@ -1,0 +1,1 @@
+## FastAPIDoc, Integrated swaggerui 2.0, automatically generate documents, MD, word, HTML, PDF, can also be debugged like swaggerui, easy to use, ready for production
